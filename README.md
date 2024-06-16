@@ -1,6 +1,5 @@
 @clmrie
-ML/DL
-Sorbonne
+Uni Paris Saclay, Ex Sorbonne, Paris.
 marieclement172@gmail.com
 
 <!---
