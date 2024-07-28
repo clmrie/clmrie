@@ -1,5 +1,6 @@
 @clmrie
-Uni Paris Saclay, Ex Sorbonne, Paris.
+Artificial intelligence Université Paris Saclay, Ex Sorbonne, Paris.
+
 marieclement172@gmail.com
 
 <!---
