@@ -1,9 +1,7 @@
 @clmrie
 AI Engineer @Huawei | MSc AI Université Paris-Saclay | Sorbonne 
-
 marieclement172@gmail.com
 
-<!---
-clmrie/clmrie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+*“The sculpture is already complete within the marble block, before I start my work. It is already there, I just have to chisel away the superfluous material.”*
+― Michelangelo
