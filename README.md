@@ -1,5 +1,5 @@
 @clmrie
-AI Engineer @Huawei | MSc AI Université Paris-Saclay | Sorbonne 
+AI Engineer @Huawei | MSc AI Université Paris-Saclay | Sorbonne <br> 
 marieclement172@gmail.com
 
 
