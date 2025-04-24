@@ -1,5 +1,5 @@
 @clmrie
-Artificial intelligence Université Paris Saclay, Ex Sorbonne, Paris.
+AI Engineer @Huawei | MSc AI Université Paris-Saclay | Sorbonne 
 
 marieclement172@gmail.com
 
